@@ -1,1 +1,1 @@
-this is the root of the project
+This is the root directory of the project.
